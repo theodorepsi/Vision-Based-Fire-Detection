@@ -34,5 +34,5 @@ Each model's structure, such as kernel size, input dimensions etc is shown in th
 
 ### 3D Frame Referencing CNN
 <p align="center">
-  <img width = "600" height = "400" src = "https://user-images.githubusercontent.com/88879534/201475566-8082d461-52bb-498e-b4c4-f722ff9577d5.png">
+  <img width = "600" height = "400" src = "Screenshot 2022-11-12 at 15 15 45" src="https://user-images.githubusercontent.com/88879534/201475782-f308cef9-ce0f-4d21-be45-60538519f5e3.png">
 </p>
