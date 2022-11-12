@@ -1,4 +1,4 @@
-# Vision-Based-Fire-Detection
+# Vision-Based Fire Detection - Detecting Fire using a Variety of 2D & 3D CNNs
 This page contains all the various Jupyter notebooks that were used in the thesis paper for the EEE4022S course at the University of Cape Town (UCT). A variety of 2D and 3D Convolutional Neural Network (CNN) models were experimented with and performance evaluated using two unseen videos from the limited High Performance Wireless Research and Education Network (HPWREN). 
 
 The models implemented are as follows:
